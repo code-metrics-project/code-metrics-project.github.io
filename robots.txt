@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/sitemap-index.xml
+Sitemap: https://code-metrics-project.github.io/sitemap-index.xml
